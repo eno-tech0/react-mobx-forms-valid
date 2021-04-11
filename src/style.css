@@ -1,0 +1,15 @@
+div {
+	width: 100%;
+	margin-bottom: 0.5rem;
+}
+
+.container {
+	margin: 5rem auto 0;
+	max-width: 500px;
+}
+
+.error {
+	color: red;
+	background-color: red;
+	border-bottom: 1px solid red;
+}
